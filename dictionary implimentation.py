@@ -17,5 +17,5 @@ print ("keys: ", key)
 #print values
 for key, value in myDictionary.items():
 print ("values", value)
-#Clear dictionary myDictionary.clear() print (myDictionary)
-Intro. to Prog. with Python (MU-B.Sc. Comp.)
+#Clear dictionary 
+myDictionary.clear() print (myDictionary)
