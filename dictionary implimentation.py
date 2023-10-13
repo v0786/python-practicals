@@ -1,10 +1,9 @@
 #create dictionary
-myDictionary = {
-"'a': '65',
-'b': '66',
-'c': '67'
-print (type (myDictionary)) print (myDictionary)
-#Add item in dictionary myDictionary['d'] = '68'
+myDictionary = {"'a': '65','b': '66','c': '67'"}
+print (type (myDictionary)) 
+print (myDictionary)
+#Add item in dictionary 
+myDictionary['d'] = '68'
 myDictionary['e'] = '69'
 myDictionary['f'] = '70'
 print ("dictionary after adding item", myDictionary)
